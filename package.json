@@ -1,0 +1,16 @@
+{
+  "name": "demo_pacakge",
+  "version": "1.0.0",
+  "description": "This is sample application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Krify Interns",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "upper-case": "^2.0.2"
+  }
+}
